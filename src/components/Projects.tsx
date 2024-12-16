@@ -3,7 +3,6 @@ import Image from "next/image";
 import {motion} from "framer-motion";
 import insta from "../assets/Project1.jpg";
 import portfo from "../assets/Project3.png";
-import legallink from "../assets/Project2.png";
 import Pace from "../assets/PACE.png";
 import news from "../assets/newsapp.jpg";
 import Apna from "../assets/Chatbot.jpg"
