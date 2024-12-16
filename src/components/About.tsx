@@ -22,7 +22,7 @@ const About = () => {
                     <Image src={book} alt="book" className="w-auto h-[130px]"/>
                     <div className="flex flex-col mt-4">
                         <h2 className="text-2xl font-bold text-white/80">Education</h2>
-                        <p className="text-lg text-white/70 mt-2 ">I'm Raikant Chaudhary, a second-year B.Tech student at Galgotias University with skills in Java, Data Structures & Algorithms, Flutter, and Firebase. I love building mobile and web applications, solving real-world problems, and exploring new technologies.</p>
+                        <p className="text-lg text-white/70 mt-2 ">I am Raikant Chaudhary, a second-year B.Tech student at Galgotias University with skills in Java, Data Structures & Algorithms, Flutter, and Firebase. I love building mobile and web applications, solving real-world problems, and exploring new technologies.</p>
                     </div>
                   </div>
             </div>
@@ -60,7 +60,7 @@ const About = () => {
                         <h2 className="text-2xl font-bold text-white/80">Technical Skills</h2>
                         <p className="text-lg text-white/70 mt-2">
                             <strong>Programming Languages:</strong> Java, Dart, C++ <br />
-                            <strong>Libraries/Frameworks:</strong> Flutter, Firebase, Three.js<br />
+                            <strong>Libraries/Frameworks:</strong> Flutter, Firebase, Threejs<br />
                             <strong>Tools/Platforms:</strong> Git, GitHub, VsCode, Android Studio, Postman <br />
                             <strong>Databases:</strong> Firebase Firestore, Firebase Database, SQL
                         </p>
