@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Raikant Chaudhary - Portfolio
 
-## Getting Started
+Welcome to my portfolio website! This site showcases my skills, projects, and achievements as a software developer. I am passionate about building mobile and web applications, solving real-world problems, and exploring new technologies.
 
-First, run the development server:
+## Table of Contents
+1. [About Me](#about-me)
+2. [Skills](#skills)
+3. [Projects](#projects)
+4. [Achievements](#achievements)
+5. [Contact](#contact)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## About Me
+Hi! I'm Raikant Chaudhary, a second-year B.Tech student at Galgotias University with a focus on software development. I specialize in Java, Data Structures & Algorithms, Flutter, and Firebase. I am always excited to learn new things and work on innovative solutions to real-world problems.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Skills
+- **Languages**: Java, Dart (Flutter), HTML, CSS, JavaScript
+- **Frameworks**: Flutter, React
+- **Backend**: Node.js, Firebase, MongoDB
+- **Tools & Technologies**: Git, GitHub, Firebase, OpenAI APIs, Tailwind CSS
+- **Other Skills**: Problem Solving, Data Structures & Algorithms, UI/UX Design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Projects
+Here are some of the projects I’ve worked on:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **[Lovediet](https://github.com/raikantchaudhary/lovediet)**  
+   A mobile app designed for deaf and mute students, focusing on Indian Sign Language and language learning (English and Gujarati).
 
-## Learn More
+2. **[APNA AI](https://github.com/raikantchaudhary/apna-ai)**  
+   A chatbot app developed using Flutter and OpenAI APIs, functioning similarly to ChatGPT.
 
-To learn more about Next.js, take a look at the following resources:
+3. **[LegalLink](https://github.com/raikantchaudhary/legallink)**  
+   A platform that aims to revolutionize the accessibility of legal services in India, offering an eMarketplace for legal service providers.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **[Instagram Clone](https://github.com/raikantchaudhary/instagram-clone)**  
+   A full-stack Instagram clone built with Flutter and Firebase, featuring user authentication, profile management, and social features.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. **PACE Satellite Data Website**  
+   A web-based application for comparing ground-based observations with Landsat data, built to improve ocean literacy through NASA’s satellite data.
 
-## Deploy on Vercel
+## Achievements
+- **Master Badge in Flutter** from Naukri Code 360 and Coding Ninjas
+- **Master Badge in Java** from Naukri Code 360 and Coding Ninjas
+- **Achiever Badge in Flutter** from Coding Ninjas
+- **Certificate in Flutter** from Naukri Code 360 and Coding Ninjas
+- **Galactic Problem Solver Certificate** from NASA Space Challenge
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
+Feel free to reach out to me through the following:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Email**: [raikantchaudhary@example.com](mailto:raikantchaudhary@example.com)
+- **LinkedIn**: [linkedin.com/in/raikantchaudhary](https://linkedin.com/in/raikantchaudhary)
+- **GitHub**: [github.com/raikantchaudhary](https://github.com/raikantchaudhary)
+
+Thank you for visiting my portfolio website!
