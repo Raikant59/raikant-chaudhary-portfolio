@@ -13,6 +13,7 @@ Hi! I'm Raikant Chaudhary, a second-year B.Tech student at Galgotias University 
 - **Other Skills**: Problem Solving, Data Structures & Algorithms, UI/UX Design, OOPs, DBMS, Software Testing, Software Development Life Cycle
 
 ## Achievements
+- Solved **400+ Coding Problems** across various platforms
 - Mentor **200+ Students** by taking 8+ workshops
 - **Event Co-ordinator** at Code Astra Hackathon
 - **Master Badge in Flutter** from Naukri Code 360 and Coding Ninjas
