@@ -45,8 +45,8 @@ const Hero = () => {
             </motion.div>
 
        
-        <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80">
-        I am a developer focused on creating cross platform Apps that provide the best experience for users.
+        <p className="text-center text-xl max-w-[550px] mx-auto mt-8 text-white/80">
+        I’m a developer crafting high-performance, cross-platform apps and web applications with seamless user experiences and AI-driven features.
         </p>
         <Image
           src={profilepic}

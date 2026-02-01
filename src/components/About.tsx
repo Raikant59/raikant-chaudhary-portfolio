@@ -13,7 +13,7 @@ const About = () => {
         <h1 className="text-white text-6xl max-w-[320px] mx-auto font-semibold p-4 mb-4">About 
             <span className="text-orange-400"> Me</span>
         </h1>
-       <div className="px-6 md:p-0 grid md:grid-cols-8 gap-6 place-items-center">
+       <div className="px-6 md:p-0 grid md:grid-cols-8 gap-8 place-items-center">
 
 
             <div className="w-full md:col-span-10 relative bg-white/10 backdrop-blur-lg border border-white/20 rounded-xl overflow-hidden">
@@ -28,7 +28,7 @@ const About = () => {
             </div>
  
 
-            <div className="w-full md:col-span-10 relative bg-white/10 backdrop-blur-lg border border-white/20 rounded-xl overflow-hidden">
+            {/* <div className="w-full md:col-span-10 relative bg-white/10 backdrop-blur-lg border border-white/20 rounded-xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-400 via-purple-700 to-orange-800 opacity-30 animate-gradient-xy"></div>
                   <div className="flex flex-row p-6">
                     <Image src={finance} alt="book" className="w-auto h-[130px]"/>
@@ -40,7 +40,7 @@ const About = () => {
                         <br/>I led team problem-solving sessions, combining technical skills with leadership and collaboration to achieve results.</p>
                     </div>
                   </div>
-            </div>
+            </div> */}
             
 
             <div className="w-full md:col-span-10 relative bg-white/10 backdrop-blur-lg border border-white/20 rounded-xl overflow-hidden">
