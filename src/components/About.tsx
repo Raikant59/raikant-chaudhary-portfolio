@@ -22,7 +22,7 @@ const About = () => {
                     <Image src={book} alt="book" className="w-auto h-[130px]"/>
                     <div className="flex flex-col mt-4">
                         <h2 className="text-2xl font-bold text-white/80">Education</h2>
-                        <p className="text-lg text-white/70 mt-2 ">I am Raikant Chaudhary, a second-year B.Tech student at Galgotias University with skills in Java, Data Structures & Algorithms, Flutter, and Firebase. I love building mobile and web applications, solving real-world problems, and exploring new technologies.</p>
+                        <p className="text-lg text-white/70 mt-2 ">B.Tech CSE student at Galgotias University (CGPA: 8.63) with strong foundations in Java, DSA, and OOPs. Skilled in building scalable applications using Flutter, Firebase, AI/ML, and cloud technologies, with a passion for problem-solving and team collaboration.</p>
                     </div>
                   </div>
             </div>

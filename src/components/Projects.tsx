@@ -5,9 +5,42 @@ import insta from "../assets/Project1.jpg";
 import portfo from "../assets/Project3.png";
 import Pace from "../assets/PACE.png";
 import news from "../assets/newsapp.jpg";
-import Apna from "../assets/Chatbot.jpg"
+import Apna from "../assets/Chatbot.jpg";
+import Food from "../assets/FoodCateringApp.jpeg"
 
 const projects = [
+    {
+        title:"PACE in the Classrooms",
+        desc:"PACE in the Classroom is an AI-powered educational platform that simplifies NASA’s PACE satellite data for students and teachers. I worked on UI/UX, API integration, and AI, building features like an AI chatbot, interactive quizzes, and real-time data visualizations to enhance ocean literacy and environmental awareness.",
+        devstack:" React.js, Three.js, Tailwind CSS, MongoDB, Express.js, Redux, NASA Earthdata API, LLMs API Integration",
+        link:"https://pace-in-classroom.vercel.app/",
+        git:"https://github.com/Raikant59/PACE-IN-CLASSROOMs",
+        src: Pace,
+    },
+    {
+        title:"Apna AI",
+        desc:"APNA AI is a cross-platform AI chatbot built with Flutter and OpenAI’s GPT models, delivering fast, natural, and context-aware conversations. I implemented optimized UI rendering, asynchronous API handling, and response caching to ensure smooth performance, supporting 100+ concurrent users across platforms.",
+        devstack:"Flutter, OpenAI APIs, Firebase, Dart, Android Studio",
+        link:"https://github.com/Raikant59/Apna-AI",
+        git:"https://github.com/Raikant59/Apna-AI",
+        src: Apna,
+    },
+        {
+        title: "Social Media App - Instagram Clone",
+        desc: "Social Media App is a fully responsive, real-time application supporting Android, iOS, and Web. It features secure authentication, post sharing with likes and comments, user search and follow system, and live updates for posts, followers, and interactions—all synced instantly in real time.",
+        devstack:"Flutter, Dart, Firebase, Provider, Android Studio",
+        link:"https://github.com/Raikant59/Social-Media-App",
+        git:"https://github.com/Raikant59/Social-Media-App",
+        src: insta,
+    },
+    {
+        title: "Food Catering App",
+        desc:"Food Catering App is a responsive Flutter application built from Figma designs, featuring platter selection, order flow, and review screens. I implemented dynamic guest-based pricing, smooth page and item animations, and input validations to ensure a seamless, production-ready ordering experience across devices.",
+        devstack:" Flutter, Dart, Android Studio",
+        link:"https://github.com/Raikant59/Food-Catering-App",
+        git:"https://github.com/Raikant59/Food-Catering-App",
+        src: Food,
+    },
     {
         title: "News App",
         desc: "The News App is a Flutter-based mobile application that provides real-time news updates from around the world, using NewsAPI to fetch the latest articles. It features a responsive design and a user-friendly, minimalistic interface for easy navigation across various news categories.",
@@ -16,38 +49,6 @@ const projects = [
         git:"https://github.com/Raikant59/News-App",
         src: news,
     },
-    {
-        title:"PACE in the Classrooms",
-        desc:"I worked on UI/UX, API and AI part of this Project.PACE in the Classroom is an interactive educational website designed to make NASA's PACE satellite data accessible and engaging for students and teachers. The platform features a chatbot powered by AI to answer questions, along with puzzle games, quizzes, and real-time satellite data visualizations. The website offers tools for teachers to manage lessons and track progress, while also providing AI-generated videos to simplify complex topics. The project aims to enhance ocean literacy and environmental awareness by making scientific data accessible and fun for all age groups.",
-        devstack:" React.js, Three.js, Tailwind CSS, MongoDB, Express.js, Redux, NASA Earthdata API, ChatGPT Integration",
-        link:"https://pace-in-classroom.vercel.app/",
-        git:"https://github.com/Raikant59/PACE-IN-CLASSROOMs",
-        src: Pace,
-    },
-    {
-        title:"Apna AI",
-        desc:"APNA AI is a conversational AI chatbot developed using Flutter and OpenAI's GPT models. It provides real-time, context-aware responses to user queries, delivering an engaging and interactive experience with accurate, human-like answers powered by advanced GPT models.",
-        devstack:"Flutter, OpenAI APIs, Firebase, Dart, Android Studio",
-        link:"https://github.com/Raikant59/Apna-AI",
-        git:"https://github.com/Raikant59/Apna-AI",
-        src: Apna,
-    },
-    {
-        title: "Instagram-Clone",
-        desc: "A completely Responsive Instagram App- Works on Android, iOS & Web! |  Features :- Responsive Instagram UI, Email & Password Authentication, Share Posts with Caption, Display Posts with Caption, Like & Comment on Posts, Search Users, Follow Users, Display User Posts, Followers & Following, EVERYTHING REAL TIME, Sign Out",
-        devstack:"Flutter, Dart, Firebase",
-        link:"https://github.com/Raikant59/Instagram-Clone---Flutter",
-        git:"https://github.com/Raikant59/Instagram-Clone---Flutter",
-        src: insta,
-    },
-    {
-        title:"Portfolio Website Using Flutter",
-        desc:"It is a basic Portfolio website built to practise the flutter Widgets, Gradient and Animations. Any Student that was beginner in Flutter can enhance its flutter Skills by practising this project",
-        devstack:"Flutter, Dart",
-        link:"https://github.com/Raikant59/Portfolio_in_flutter_example",
-        git:"https://github.com/Raikant59/Portfolio_in_flutter_example",
-        src: portfo,
-    }
 ]
 
 const Projects = () => {
