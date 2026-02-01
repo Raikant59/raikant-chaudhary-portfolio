@@ -2,7 +2,6 @@
 import Image from "next/image";
 import {motion} from "framer-motion";
 import insta from "../assets/Project1.jpg";
-import portfo from "../assets/Project3.png";
 import Pace from "../assets/PACE.png";
 import news from "../assets/newsapp.jpg";
 import Apna from "../assets/Chatbot.jpg";
@@ -26,20 +25,20 @@ const projects = [
         src: Apna,
     },
         {
-        title: "Social Media App - Instagram Clone",
-        desc: "Social Media App is a fully responsive, real-time application supporting Android, iOS, and Web. It features secure authentication, post sharing with likes and comments, user search and follow system, and live updates for posts, followers, and interactions—all synced instantly in real time.",
-        devstack:"Flutter, Dart, Firebase, Provider, Android Studio",
-        link:"https://github.com/Raikant59/Social-Media-App",
-        git:"https://github.com/Raikant59/Social-Media-App",
-        src: insta,
-    },
-    {
         title: "Food Catering App",
         desc:"Food Catering App is a responsive Flutter application built from Figma designs, featuring platter selection, order flow, and review screens. I implemented dynamic guest-based pricing, smooth page and item animations, and input validations to ensure a seamless, production-ready ordering experience across devices.",
         devstack:" Flutter, Dart, Android Studio",
         link:"https://github.com/Raikant59/Food-Catering-App",
         git:"https://github.com/Raikant59/Food-Catering-App",
         src: Food,
+    },
+    {
+        title: "Social Media App - Instagram Clone",
+        desc: "Social Media App is a fully responsive, real-time application supporting Android, iOS, and Web. It features secure authentication, post sharing with likes and comments, user search and follow system, and live updates for posts, followers, and interactions—all synced instantly in real time.",
+        devstack:"Flutter, Dart, Firebase, Provider, Android Studio",
+        link:"https://github.com/Raikant59/Social-Media-App",
+        git:"https://github.com/Raikant59/Social-Media-App",
+        src: insta,
     },
     {
         title: "News App",
